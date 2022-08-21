@@ -21,7 +21,7 @@ setup(
 	# Chose a license from here: https: // 
 	# help.github.com / articles / licensing - a - 
 	# repository. For example: MIT 
-	license='',
+	license='MIT',
 	# Short description of your library 
 	description='',
 	# Long description of your library 
@@ -30,11 +30,11 @@ setup(
 	# Your name 
 	author='',
 	# Your email 
-	author_email='',
+	author_email='adeyeyeseyi2@gmail.com',
 	# Either the link to your github or to your website 
-	url='',
+	url='https://github.com/Adeyeye93/Phonebook/blob/main/setup.py',
 	# Link from which the project can be downloaded 
-	download_url='',
+	download_url='https://github.com/Adeyeye93/Phonebook/archive/refs/heads/main.zip',
 	# List of keywords 
 	keywords=[],
 	# List of packages to install with this one 
