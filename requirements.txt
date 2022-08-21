@@ -28,6 +28,7 @@ Pillow==9.1.0
 pip-upgrade-tool==0.7.3
 platformdirs==2.5.1
 psycopg2==2.9.3
+psycopg2-binary==2.9.3
 PyJWT==2.4.0
 pyparsing==3.0.9
 pypi==2.1
