@@ -3,12 +3,11 @@ Name: setup-py-cli
 Version: 2.1.0
 Summary: Simple module to generate setup.py template.
 Home-page: https://github.com/Adeyeye93/Phonebook/blob/main/setup.py
+Download-URL: https://github.com/Adeyeye93/Phonebook/archive/refs/heads/main.zip
 Author: Ilya Vouk
 Author-email: adeyeyeseyi2@gmail.com
 License: MIT
-Download-URL: https://github.com/Adeyeye93/Phonebook/archive/refs/heads/main.zip
 Keywords: generator,setup,distribution,devtools
-Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Topic :: Software Development :: Code Generators
 Classifier: Topic :: Software Development :: Libraries
@@ -24,5 +23,3 @@ Classifier: Programming Language :: Python :: 3.7
 Description-Content-Type: text/markdown
 
 # Phonebook
-
-
